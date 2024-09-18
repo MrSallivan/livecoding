@@ -59,6 +59,7 @@
 	border-radius: 5px;
 	padding: 20px;
 	background-color: lightgreen;
+	cursor: pointer;
 }
 .header__icon {
 	width: 32px;
@@ -72,6 +73,7 @@
 .header__text {
 }
 .header__iconsearch {
+	cursor: pointer;
 	width: 32px;
 	height: 32px;
 }
